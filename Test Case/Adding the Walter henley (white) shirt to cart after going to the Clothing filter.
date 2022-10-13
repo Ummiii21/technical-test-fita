@@ -1,7 +1,7 @@
-id: L3sw9f5Op0K6ZzIkyWIYag
+id: Hl2ekvd-vk6FbSe6HXvPiA
 projectId: y4pVsxPAxkypUm1QdKCvAw
 projectName: Technical Test Fita
-created: 2022-10-13T06:50:15.5238213Z
+created: 2022-10-13T07:36:31.0561530Z
 protocol: 1
 tests:
 - id: 2ZnCguWXYU2H_Vpctf-oPQ
@@ -12,7 +12,7 @@ tests:
   driverType: Appium_Android
   version: 0.1
   creationDate: 2022-10-13T03:26:55.0000000
-  modificationDate: 2022-10-13T06:20:47.0000000
+  modificationDate: 2022-10-13T07:33:00.0000000
   settings:
     automationAssistant: true
     deviceId: emulator-5554
@@ -271,6 +271,40 @@ tests:
       id: 02d572b2-d610-4700-9ad3-40076ddb9807
       source: System
     parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: B3DaAeER4EGVe1R8e19zVA
+    enabled: true
+    invertResult: false
+    order: 13
+    repeat: 1
+    type: Action
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 144af44b-2c26-4c8b-b5e6-7c6b7d6cad72
+      source: System
+    parameterMaps:
+    - name: startX
+      value: 976
+      direction: Input
+    - name: startY
+      value: 904
+      direction: Input
+    - name: endX
+      value: 294
+      direction: Input
+    - name: endY
+      value: 916
+      direction: Input
+    - name: duration
+      value: 325
+      direction: Input
     conditions: []
     validations: []
     contexts: []
@@ -731,6 +765,127 @@ auxTests:
     contexts: []
   parameters: []
 elements:
+- id: WX6DOPkEq0-vdy9ZeeCosw
+  name: >-
+    Shrine
+
+    A fashionable retail app
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: >-
+      //android.view.View[@content-desc = 'Shrine
+
+      A fashionable retail app']
+    priority: 0
+  - name: XPATH
+    value: //android.widget.HorizontalScrollView/android.view.View[2]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[3]/android.view.View[1]/android.widget.HorizontalScrollView[1]/android.view.View[2]
+    priority: 2
+- id: CLlk8UUwnEagoqt7TOBhqw
+  name: Gallery
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.view.View[@content-desc = 'Gallery']
+    priority: 0
+  - name: XPATH
+    value: //android.view.View[2]/android.view.View/android.view.View[2]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[2]
+    priority: 2
+- id: D95FkTds8Eeuihobnsi64g
+  name: >-
+    Reply
+
+    An efficient, focused email app
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: >-
+      //android.view.View[@content-desc = 'Reply
+
+      An efficient, focused email app']
+    priority: 0
+  - name: XPATH
+    value: //android.widget.HorizontalScrollView/android.view.View[1]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[3]/android.view.View[1]/android.widget.HorizontalScrollView[1]/android.view.View[1]
+    priority: 2
+- id: dHgqtHgpNEm1YXstQBqg8g
+  name: Username
+  type:
+    id: jUwODgyNjAyNzk2NTk3MTM
+    name: android.widget.EditText
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.EditText[@text = 'Username']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.EditText[1]
+    priority: 0
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.widget.EditText[1]
+    priority: 2
+- id: ajZDJyMLgkmIV0cekjgPrQ
+  name: Password
+  type:
+    id: jUwODgyNjAyNzk2NTk3MTM
+    name: android.widget.EditText
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.EditText[@text = 'Password']
+    priority: 0
+  - name: XPATH
+    value: //android.widget.EditText[2]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.widget.EditText[2]
+    priority: 2
+- id: _QGBlC0lcUecjuLToU4p_w
+  name: NEXT
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDU
+    name: android.widget.Button
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.Button[@content-desc = 'NEXT']
+    priority: 0
+  - name: XPATH
+    value: //android.widget.Button[2]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[5]/android.widget.Button[2]
+    priority: 2
+- id: RqIYzLGLCEqmmQ4vq0pebw
+  name: shrine_home_page
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View/android.view.View[2]
+    priority: 0
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]
+    priority: 1
 - id: 6Uh1Z7HqiUmY6gbr0scsrw
   name: Open menu
   type:
@@ -776,6 +931,28 @@ elements:
   - name: XPATH
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]
     priority: 1
+- id: x97vBXslvk26xYkPMepf4A
+  name: >-
+    Shrine
+
+    A fashionable retail app1
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: >-
+      //android.view.View[@content-desc = 'Shrine
+
+      A fashionable retail app']
+    priority: 0
+  - name: XPATH
+    value: //android.view.View[3]//android.view.View[2]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[3]/android.view.View[1]/android.view.View[1]/android.view.View[2]
+    priority: 2
 - id: 93Ho8fCQSE-ys13E_SDGpA
   name: Shopping cart, 1 item
   type:
@@ -906,148 +1083,5 @@ elements:
   - name: XPATH
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.view.View[4]
     priority: 2
-- id: x97vBXslvk26xYkPMepf4A
-  name: >-
-    Shrine
-
-    A fashionable retail app1
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: >-
-      //android.view.View[@content-desc = 'Shrine
-
-      A fashionable retail app']
-    priority: 0
-  - name: XPATH
-    value: //android.view.View[3]//android.view.View[2]
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[3]/android.view.View[1]/android.view.View[1]/android.view.View[2]
-    priority: 2
-- id: CLlk8UUwnEagoqt7TOBhqw
-  name: Gallery
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: //android.view.View[@content-desc = 'Gallery']
-    priority: 0
-  - name: XPATH
-    value: //android.view.View[2]/android.view.View/android.view.View[2]
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[2]
-    priority: 2
-- id: D95FkTds8Eeuihobnsi64g
-  name: >-
-    Reply
-
-    An efficient, focused email app
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: >-
-      //android.view.View[@content-desc = 'Reply
-
-      An efficient, focused email app']
-    priority: 0
-  - name: XPATH
-    value: //android.widget.HorizontalScrollView/android.view.View[1]
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[3]/android.view.View[1]/android.widget.HorizontalScrollView[1]/android.view.View[1]
-    priority: 2
-- id: WX6DOPkEq0-vdy9ZeeCosw
-  name: >-
-    Shrine
-
-    A fashionable retail app
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: >-
-      //android.view.View[@content-desc = 'Shrine
-
-      A fashionable retail app']
-    priority: 0
-  - name: XPATH
-    value: //android.widget.HorizontalScrollView/android.view.View[2]
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[3]/android.view.View[1]/android.widget.HorizontalScrollView[1]/android.view.View[2]
-    priority: 2
-- id: dHgqtHgpNEm1YXstQBqg8g
-  name: Username
-  type:
-    id: jUwODgyNjAyNzk2NTk3MTM
-    name: android.widget.EditText
-    source: System
-  locators:
-  - name: XPATH
-    value: //android.widget.EditText[@text = 'Username']
-    priority: 1
-  - name: XPATH
-    value: //android.widget.EditText[1]
-    priority: 0
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.widget.EditText[1]
-    priority: 2
-- id: ajZDJyMLgkmIV0cekjgPrQ
-  name: Password
-  type:
-    id: jUwODgyNjAyNzk2NTk3MTM
-    name: android.widget.EditText
-    source: System
-  locators:
-  - name: XPATH
-    value: //android.widget.EditText[@text = 'Password']
-    priority: 0
-  - name: XPATH
-    value: //android.widget.EditText[2]
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.widget.EditText[2]
-    priority: 2
-- id: _QGBlC0lcUecjuLToU4p_w
-  name: NEXT
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDU
-    name: android.widget.Button
-    source: System
-  locators:
-  - name: XPATH
-    value: //android.widget.Button[@content-desc = 'NEXT']
-    priority: 0
-  - name: XPATH
-    value: //android.widget.Button[2]
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[5]/android.widget.Button[2]
-    priority: 2
-- id: RqIYzLGLCEqmmQ4vq0pebw
-  name: shrine_home_page
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: //android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View/android.view.View[2]
-    priority: 0
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]
-    priority: 1
 projectParameters: []
 addons: []
