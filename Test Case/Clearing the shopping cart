@@ -1,7 +1,7 @@
-id: oO4ZosxRC0uSgm6G_509FQ
+id: vDz7aMj3-UiHblcQfMomMA
 projectId: y4pVsxPAxkypUm1QdKCvAw
 projectName: Technical Test Fita
-created: 2022-10-15T04:21:22.3510218Z
+created: 2022-10-15T04:26:32.4480985Z
 protocol: 1
 tests:
 - id: pJvGrOQXpUuM69vn033VJQ
@@ -12,7 +12,7 @@ tests:
   driverType: Appium_Android
   version: 0.1
   creationDate: 2022-10-15T04:21:07.0000000
-  modificationDate: 2022-10-15T04:21:22.0000000
+  modificationDate: 2022-10-15T04:23:51.0000000
   settings:
     automationAssistant: true
     deviceId: emulator-5554
@@ -64,6 +64,94 @@ tests:
       takeScreenshotConditionType: Inherit
     action:
       source: None
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: DRRUnaqtZUiCCQnhPXwIzQ
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 3
+    repeat: 1
+    type: Action
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 5ac5d621-7a53-45a6-94e5-a3348be3969e
+      source: System
+    parameterMaps:
+    - name: milliseconds
+      value: 3
+      direction: Input
+    conditions: []
+    validations: []
+    contexts: []
+  - id: i4cC4EQkUkOUCLiO3FtWuA
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 4
+    repeat: 1
+    type: Action
+    elementId: yuq7EOYuvkWak4V0SYDXDQ
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: jtQO9KP3Oka7_CQKnlFhCA
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 5
+    repeat: 1
+    type: Action
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 5ac5d621-7a53-45a6-94e5-a3348be3969e
+      source: System
+    parameterMaps:
+    - name: milliseconds
+      value: 3
+      direction: Input
+    conditions: []
+    validations: []
+    contexts: []
+  - id: SNlQ9rc9qkaDNBifc49lpA
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 6
+    repeat: 1
+    type: Action
+    elementId: WZT4lou5c0OE3y49JZpkag
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: a9ab4ae7-38ca-4451-a636-1b801a774503
+      source: System
     parameterMaps: []
     conditions: []
     validations: []
@@ -1420,6 +1508,19 @@ elements:
   - name: XPATH
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[5]/android.widget.Button[2]
     priority: 2
+- id: WZT4lou5c0OE3y49JZpkag
+  name: ANDROID.VIEW.VIEW1
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.FrameLayout/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View/android.view.View
+    priority: 0
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]
+    priority: 1
 - id: RqIYzLGLCEqmmQ4vq0pebw
   name: shrine_home_page
   type:
@@ -1675,6 +1776,22 @@ elements:
     priority: 1
   - name: XPATH
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.view.View[4]
+    priority: 2
+- id: yuq7EOYuvkWak4V0SYDXDQ
+  name: CLEAR CART
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDU
+    name: android.widget.Button
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.Button[@content-desc = 'CLEAR CART']
+    priority: 0
+  - name: XPATH
+    value: //android.widget.FrameLayout/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View/android.widget.Button
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Button[1]
     priority: 2
 projectParameters: []
 addons: []
