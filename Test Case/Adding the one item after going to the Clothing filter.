@@ -1,18 +1,18 @@
-id: gaPNp_I3tkqOystxDdpjug
+id: 9mscI9oO_kqHFJzpMmYGHw
 projectId: y4pVsxPAxkypUm1QdKCvAw
 projectName: Technical Test Fita
-created: 2022-10-15T03:47:47.9957300Z
+created: 2022-10-15T03:51:18.0651072Z
 protocol: 1
 tests:
 - id: 2ZnCguWXYU2H_Vpctf-oPQ
-  name: Adding the Walter henley (white) shirt to cart after going to the Clothing filter.
+  name: Adding the one item after going to the Clothing filter.
   description: ''
   platform: Android
   type: Mobile
   driverType: Appium_Android
   version: 0.1
   creationDate: 2022-10-13T03:26:55.0000000
-  modificationDate: 2022-10-15T03:47:33.0000000
+  modificationDate: 2022-10-15T03:51:18.0000000
   settings:
     automationAssistant: true
     deviceId: emulator-5554
