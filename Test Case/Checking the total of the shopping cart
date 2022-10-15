@@ -1,7 +1,7 @@
-id: Sbwt8r53OkOIezxdqIrgyg
+id: oRHc4JVgkU-e7eK22_5Mlw
 projectId: y4pVsxPAxkypUm1QdKCvAw
 projectName: Technical Test Fita
-created: 2022-10-15T03:53:20.7319866Z
+created: 2022-10-15T04:15:43.6098420Z
 protocol: 1
 tests:
 - id: jsdMykr0QEWnCTX6amfn8A
@@ -12,7 +12,7 @@ tests:
   driverType: Appium_Android
   version: 0.1
   creationDate: 2022-10-15T03:52:11.0000000
-  modificationDate: 2022-10-15T03:53:20.0000000
+  modificationDate: 2022-10-15T04:08:35.0000000
   settings:
     automationAssistant: true
     deviceId: emulator-5554
@@ -68,6 +68,254 @@ tests:
     conditions: []
     validations: []
     contexts: []
+  - id: qpulsbZTV0SHFTvOF8_4rg
+    enabled: true
+    invertResult: false
+    order: 3
+    repeat: 1
+    type: Action
+    elementId: 6Uh1Z7HqiUmY6gbr0scsrw
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: -8Emhz_zuEqJ0ZPDj1eX6Q
+    enabled: true
+    invertResult: false
+    order: 4
+    repeat: 1
+    type: Action
+    elementId: K-gitrn1Nk-GgFsD1z3new
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: HapEGqHpWUSo-f8cGEHHVg
+    enabled: true
+    invertResult: false
+    order: 5
+    repeat: 1
+    type: Action
+    elementId: sq2JQyQNMkOlmsa_aPvcIA
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: GAJFm-YC20ikIWoIIbbINg
+    enabled: true
+    invertResult: false
+    order: 6
+    repeat: 1
+    type: Action
+    elementId: WyWRwipB-kutbUBbCQ_UJg
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: hPhwLV19ME6W0hyDRo0TNA
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 7
+    repeat: 1
+    type: Action
+    elementId: aRp6_v69z0KYiQi5gvH7kw
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: a9ab4ae7-38ca-4451-a636-1b801a774503
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: aIgO6IUFU0Gwe10gdyBkyw
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 8
+    repeat: 1
+    type: Action
+    elementId: Vc8Co34EDEKCMPjPJ0VY7w
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: a9ab4ae7-38ca-4451-a636-1b801a774503
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: i1erpWIWUkOAq20UatkTUA
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 9
+    repeat: 1
+    type: Action
+    elementId: 6G2Pu2N_Tkm8Y3bbjBUyjQ
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: a9ab4ae7-38ca-4451-a636-1b801a774503
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: QlsSiGXyt0aLRV8iCS0VOA
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 10
+    repeat: 1
+    type: Action
+    elementId: 2r1CueDMMkq_qxZSZKDd5g
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: a9ab4ae7-38ca-4451-a636-1b801a774503
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: 82UofOqsP0WYCX83KCvfrg
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 11
+    repeat: 1
+    type: Action
+    elementId: 2r1CueDMMkq_qxZSZKDd5g
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: a9ab4ae7-38ca-4451-a636-1b801a774503
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: JJz2R8lIEEuu9qMSlgNySg
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 12
+    repeat: 1
+    type: Action
+    elementId: 6NsgsQohwECfF3bvh7OlCw
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: a9ab4ae7-38ca-4451-a636-1b801a774503
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: xfR6Trh6iEuGP7dSLsLCEQ
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 13
+    repeat: 1
+    type: Action
+    elementId: ZaevcEcsrkGkpBPSeCu3dQ
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: a9ab4ae7-38ca-4451-a636-1b801a774503
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: rBefidBJn0qXLbJHfftTaQ
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 14
+    repeat: 1
+    type: Action
+    elementId: KV50jr8_sU-hHaWUJJhbOQ
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: a9ab4ae7-38ca-4451-a636-1b801a774503
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
   parameters: []
 auxTests:
 - id: 2ZnCguWXYU2H_Vpctf-oPQ
@@ -78,7 +326,7 @@ auxTests:
   driverType: Appium_Android
   version: 0.1
   creationDate: 2022-10-13T03:26:55.0000000
-  modificationDate: 2022-10-15T03:51:18.0000000
+  modificationDate: 2022-10-15T04:15:40.0000000
   settings:
     automationAssistant: true
     deviceId: emulator-5554
@@ -129,10 +377,33 @@ auxTests:
     conditions: []
     validations: []
     contexts: []
-  - id: STqsBIeGDUSWUwNNlGHyZg
+  - id: W08OJYB7tUGHTvJhdiycXw
+    comments: ''
     enabled: true
     invertResult: false
     order: 3
+    repeat: 1
+    type: Action
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 5ac5d621-7a53-45a6-94e5-a3348be3969e
+      source: System
+    parameterMaps:
+    - name: milliseconds
+      value: 3
+      direction: Input
+    conditions: []
+    validations: []
+    contexts: []
+  - id: STqsBIeGDUSWUwNNlGHyZg
+    enabled: true
+    invertResult: false
+    order: 4
     repeat: 1
     type: Action
     elementId: 6Uh1Z7HqiUmY6gbr0scsrw
@@ -149,10 +420,33 @@ auxTests:
     conditions: []
     validations: []
     contexts: []
+  - id: 2HgdeRx5c0CYCQ-BEFiBeQ
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 5
+    repeat: 1
+    type: Action
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 5ac5d621-7a53-45a6-94e5-a3348be3969e
+      source: System
+    parameterMaps:
+    - name: milliseconds
+      value: 3
+      direction: Input
+    conditions: []
+    validations: []
+    contexts: []
   - id: HijcSDZaJUuVbTHZro_dRQ
     enabled: true
     invertResult: false
-    order: 4
+    order: 6
     repeat: 1
     type: Action
     elementId: P7yFtfIpmU2Qre0cVoOz3g
@@ -169,10 +463,33 @@ auxTests:
     conditions: []
     validations: []
     contexts: []
+  - id: nYEhqmUp60aXMJ6008ialQ
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 7
+    repeat: 1
+    type: Action
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 5ac5d621-7a53-45a6-94e5-a3348be3969e
+      source: System
+    parameterMaps:
+    - name: milliseconds
+      value: 3
+      direction: Input
+    conditions: []
+    validations: []
+    contexts: []
   - id: Hr1YQUdGIUSyJ8pZa_7jVg
     enabled: true
     invertResult: false
-    order: 5
+    order: 8
     repeat: 1
     type: Action
     settings:
@@ -203,11 +520,34 @@ auxTests:
     conditions: []
     validations: []
     contexts: []
+  - id: D6uAsTzNCkOOKGrBRpty1Q
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 9
+    repeat: 1
+    type: Action
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 5ac5d621-7a53-45a6-94e5-a3348be3969e
+      source: System
+    parameterMaps:
+    - name: milliseconds
+      value: 3
+      direction: Input
+    conditions: []
+    validations: []
+    contexts: []
   - id: R2Nywph8_k2D4O0OY8ehUw
     comments: ''
     enabled: true
     invertResult: false
-    order: 6
+    order: 10
     repeat: 1
     type: Action
     elementId: sq2JQyQNMkOlmsa_aPvcIA
@@ -224,98 +564,13 @@ auxTests:
     conditions: []
     validations: []
     contexts: []
-  - id: j2OFWy7Nxk2bVuFJ9qIlGw
-    comments: ''
-    enabled: true
-    invertResult: false
-    order: 7
-    repeat: 1
-    type: Action
-    elementId: 93Ho8fCQSE-ys13E_SDGpA
-    settings:
-      sleepTime: -1
-      timeout: -1
-      sleepTiming: Inherit
-      failureBehaviorType: Inherit
-      takeScreenshotConditionType: Inherit
-    action:
-      id: 02d572b2-d610-4700-9ad3-40076ddb9807
-      source: System
-    parameterMaps: []
-    conditions: []
-    validations: []
-    contexts: []
-  - id: uj0JdIVPvUSr0PWYel_ToA
-    comments: ''
-    enabled: true
-    invertResult: false
-    order: 8
-    repeat: 1
-    type: Action
-    elementId: Gwj1Nd5oQ027OU59kKCZqQ
-    settings:
-      sleepTime: -1
-      timeout: -1
-      sleepTiming: Inherit
-      failureBehaviorType: Inherit
-      takeScreenshotConditionType: Inherit
-    action:
-      id: a9ab4ae7-38ca-4451-a636-1b801a774503
-      source: System
-    parameterMaps: []
-    conditions: []
-    validations: []
-    contexts: []
-  - id: praGL3A-PUil8zIPgwZm7A
-    comments: ''
-    enabled: true
-    invertResult: false
-    order: 9
-    repeat: 1
-    type: Action
-    elementId: Gwj1Nd5oQ027OU59kKCZqQ
-    settings:
-      sleepTime: -1
-      timeout: -1
-      sleepTiming: Inherit
-      failureBehaviorType: Inherit
-      takeScreenshotConditionType: Inherit
-    action:
-      id: a9ab4ae7-38ca-4451-a636-1b801a774503
-      source: System
-    parameterMaps: []
-    conditions: []
-    validations: []
-    contexts: []
-  - id: l0cFTAqrPEGo6-UWljEBgg
-    comments: ''
-    enabled: true
-    invertResult: false
-    order: 10
-    repeat: 1
-    type: Action
-    elementId: jHb9fyKMukmq-VaXr0AmjA
-    settings:
-      sleepTime: -1
-      timeout: -1
-      sleepTiming: Inherit
-      failureBehaviorType: Inherit
-      takeScreenshotConditionType: Inherit
-    action:
-      id: a9ab4ae7-38ca-4451-a636-1b801a774503
-      source: System
-    parameterMaps: []
-    conditions: []
-    validations: []
-    contexts: []
-  - id: SxYdBUu1EkK85J3sdsKN0w
+  - id: gBrDbCd55kmt-TzKISoQaQ
     comments: ''
     enabled: true
     invertResult: false
     order: 11
     repeat: 1
     type: Action
-    elementId: Q0Ips4fSaU6EtJq3Y27suA
     settings:
       sleepTime: -1
       timeout: -1
@@ -323,51 +578,12 @@ auxTests:
       failureBehaviorType: Inherit
       takeScreenshotConditionType: Inherit
     action:
-      id: a9ab4ae7-38ca-4451-a636-1b801a774503
+      id: 5ac5d621-7a53-45a6-94e5-a3348be3969e
       source: System
-    parameterMaps: []
-    conditions: []
-    validations: []
-    contexts: []
-  - id: 9I5s4hz0PkStSF1LjP5quQ
-    comments: ''
-    enabled: true
-    invertResult: false
-    order: 12
-    repeat: 1
-    type: Action
-    elementId: UWcIxBeSnkSGHccMyWBBlg
-    settings:
-      sleepTime: -1
-      timeout: -1
-      sleepTiming: Inherit
-      failureBehaviorType: Inherit
-      takeScreenshotConditionType: Inherit
-    action:
-      id: a9ab4ae7-38ca-4451-a636-1b801a774503
-      source: System
-    parameterMaps: []
-    conditions: []
-    validations: []
-    contexts: []
-  - id: SknXrwHL1UWE8JX_6cYN_g
-    comments: ''
-    enabled: true
-    invertResult: false
-    order: 13
-    repeat: 1
-    type: Action
-    elementId: 7lV7SBIpPkaT0Hn06UBD3g
-    settings:
-      sleepTime: -1
-      timeout: -1
-      sleepTiming: Inherit
-      failureBehaviorType: Inherit
-      takeScreenshotConditionType: Inherit
-    action:
-      id: a9ab4ae7-38ca-4451-a636-1b801a774503
-      source: System
-    parameterMaps: []
+    parameterMaps:
+    - name: milliseconds
+      value: 3
+      direction: Input
     conditions: []
     validations: []
     contexts: []
@@ -827,11 +1043,100 @@ auxTests:
     contexts: []
   parameters: []
 elements:
-- id: WX6DOPkEq0-vdy9ZeeCosw
+- id: 6Uh1Z7HqiUmY6gbr0scsrw
+  name: Open menu
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDU
+    name: android.widget.Button
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.Button[@content-desc = 'Open menu']
+    priority: 0
+  - name: XPATH
+    value: //android.view.View/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View/android.widget.Button
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Button[1]
+    priority: 2
+- id: K-gitrn1Nk-GgFsD1z3new
+  name: ACCESSORIES
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDU
+    name: android.widget.Button
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.Button[@content-desc = 'ACCESSORIES']
+    priority: 0
+  - name: XPATH
+    value: //android.view.View[2]/android.view.View[2]//android.widget.Button[2]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[2]/android.view.View[1]/android.widget.Button[2]
+    priority: 2
+- id: sq2JQyQNMkOlmsa_aPvcIA
+  name: ANDROID.VIEW.VIEW2
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.FrameLayout/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View/android.view.View
+    priority: 0
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]
+    priority: 1
+- id: WyWRwipB-kutbUBbCQ_UJg
+  name: Shopping cart, 2 items
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDU
+    name: android.widget.Button
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.Button[@content-desc = 'Shopping cart, 2 items']
+    priority: 0
+  - name: XPATH
+    value: //android.widget.FrameLayout/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View/android.widget.Button
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Button[1]
+    priority: 2
+- id: aRp6_v69z0KYiQi5gvH7kw
   name: >-
-    Shrine
+    Close cart
 
-    A fashionable retail app
+    CART
+
+    2 ITEMS
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDU
+    name: android.widget.Button
+    source: System
+  locators:
+  - name: XPATH
+    value: >-
+      //android.widget.Button[@content-desc = 'Close cart
+
+      CART
+
+      2 ITEMS']
+    priority: 0
+  - name: XPATH
+    value: //android.view.View/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Button
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Button[1]
+    priority: 2
+- id: Vc8Co34EDEKCMPjPJ0VY7w
+  name: >-
+    Fine lines tee
+
+    Quantity: 1
+
+    x $58
   type:
     id: jUwODgyNjAyNzk2NTk4NDY
     name: android.view.View
@@ -839,16 +1144,177 @@ elements:
   locators:
   - name: XPATH
     value: >-
-      //android.view.View[@content-desc = 'Shrine
+      //android.view.View[@content-desc = 'Fine lines tee
 
-      A fashionable retail app']
+      Quantity: 1
+
+      x $58']
     priority: 0
   - name: XPATH
-    value: //android.widget.HorizontalScrollView/android.view.View[2]
+    value: //android.view.View[2]/android.view.View[1]
     priority: 1
   - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[3]/android.view.View[1]/android.widget.HorizontalScrollView[1]/android.view.View[2]
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]
     priority: 2
+- id: 6G2Pu2N_Tkm8Y3bbjBUyjQ
+  name: >-
+    Shrug bag
+
+    Quantity: 1
+
+    x $1981
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: >-
+      //android.view.View[@content-desc = 'Shrug bag
+
+      Quantity: 1
+
+      x $198']
+    priority: 0
+  - name: XPATH
+    value: //android.view.View[2]/android.view.View[2]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[2]
+    priority: 2
+- id: 2r1CueDMMkq_qxZSZKDd5g
+  name: >-
+    TOTAL
+
+    $285.36
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: >-
+      //android.view.View[@content-desc = 'TOTAL
+
+      $285.36']
+    priority: 0
+  - name: XPATH
+    value: //android.view.View[3]/android.view.View[1]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.view.View[1]
+    priority: 2
+- id: 6NsgsQohwECfF3bvh7OlCw
+  name: >-
+    Subtotal:
+
+    $256.00
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: >-
+      //android.view.View[@content-desc = 'Subtotal:
+
+      $256.00']
+    priority: 0
+  - name: XPATH
+    value: //android.view.View[3]/android.view.View[2]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.view.View[2]
+    priority: 2
+- id: ZaevcEcsrkGkpBPSeCu3dQ
+  name: >-
+    Shipping:
+
+    $14.00
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: >-
+      //android.view.View[@content-desc = 'Shipping:
+
+      $14.00']
+    priority: 0
+  - name: XPATH
+    value: //android.view.View[3]/android.view.View[3]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.view.View[3]
+    priority: 2
+- id: KV50jr8_sU-hHaWUJJhbOQ
+  name: >-
+    Tax:
+
+    $15.36
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: >-
+      //android.view.View[@content-desc = 'Tax:
+
+      $15.36']
+    priority: 0
+  - name: XPATH
+    value: //android.view.View[3]/android.view.View[4]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.view.View[4]
+    priority: 2
+- id: 6Uh1Z7HqiUmY6gbr0scsrw
+  name: Open menu
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDU
+    name: android.widget.Button
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.Button[@content-desc = 'Open menu']
+    priority: 0
+  - name: XPATH
+    value: //android.view.View/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View/android.widget.Button
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Button[1]
+    priority: 2
+- id: P7yFtfIpmU2Qre0cVoOz3g
+  name: CLOTHING
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDU
+    name: android.widget.Button
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.Button[@content-desc = 'CLOTHING']
+    priority: 0
+  - name: XPATH
+    value: //android.widget.Button[3]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[2]/android.view.View[1]/android.widget.Button[3]
+    priority: 2
+- id: sq2JQyQNMkOlmsa_aPvcIA
+  name: ANDROID.VIEW.VIEW2
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.FrameLayout/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View/android.view.View
+    priority: 0
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]
+    priority: 1
 - id: CLlk8UUwnEagoqt7TOBhqw
   name: Gallery
   type:
@@ -886,6 +1352,28 @@ elements:
     priority: 1
   - name: XPATH
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[3]/android.view.View[1]/android.widget.HorizontalScrollView[1]/android.view.View[1]
+    priority: 2
+- id: WX6DOPkEq0-vdy9ZeeCosw
+  name: >-
+    Shrine
+
+    A fashionable retail app
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: >-
+      //android.view.View[@content-desc = 'Shrine
+
+      A fashionable retail app']
+    priority: 0
+  - name: XPATH
+    value: //android.widget.HorizontalScrollView/android.view.View[2]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[3]/android.view.View[1]/android.widget.HorizontalScrollView[1]/android.view.View[2]
     priority: 2
 - id: dHgqtHgpNEm1YXstQBqg8g
   name: Username
@@ -948,180 +1436,5 @@ elements:
   - name: XPATH
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]
     priority: 1
-- id: 6Uh1Z7HqiUmY6gbr0scsrw
-  name: Open menu
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDU
-    name: android.widget.Button
-    source: System
-  locators:
-  - name: XPATH
-    value: //android.widget.Button[@content-desc = 'Open menu']
-    priority: 0
-  - name: XPATH
-    value: //android.view.View/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View/android.widget.Button
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Button[1]
-    priority: 2
-- id: P7yFtfIpmU2Qre0cVoOz3g
-  name: CLOTHING
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDU
-    name: android.widget.Button
-    source: System
-  locators:
-  - name: XPATH
-    value: //android.widget.Button[@content-desc = 'CLOTHING']
-    priority: 0
-  - name: XPATH
-    value: //android.widget.Button[3]
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[2]/android.view.View[1]/android.widget.Button[3]
-    priority: 2
-- id: sq2JQyQNMkOlmsa_aPvcIA
-  name: ANDROID.VIEW.VIEW2
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: //android.widget.FrameLayout/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View/android.view.View
-    priority: 0
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]
-    priority: 1
-- id: 93Ho8fCQSE-ys13E_SDGpA
-  name: Shopping cart, 1 item
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDU
-    name: android.widget.Button
-    source: System
-  locators:
-  - name: XPATH
-    value: //android.widget.Button[@content-desc = 'Shopping cart, 1 item']
-    priority: 0
-  - name: XPATH
-    value: //android.widget.FrameLayout/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View/android.widget.Button
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Button[1]
-    priority: 2
-- id: Gwj1Nd5oQ027OU59kKCZqQ
-  name: >-
-    Close cart
-
-    CART
-
-    1 ITEM
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDU
-    name: android.widget.Button
-    source: System
-  locators:
-  - name: XPATH
-    value: >-
-      //android.widget.Button[@content-desc = 'Close cart
-
-      CART
-
-      1 ITEM']
-    priority: 0
-  - name: XPATH
-    value: //android.view.View/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Button
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Button[1]
-    priority: 2
-- id: UWcIxBeSnkSGHccMyWBBlg
-  name: >-
-    Shipping:
-
-    $7.00
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: >-
-      //android.view.View[@content-desc = 'Shipping:
-
-      $7.00']
-    priority: 0
-  - name: XPATH
-    value: //android.view.View[3]/android.view.View[3]
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.view.View[3]
-    priority: 2
-- id: jHb9fyKMukmq-VaXr0AmjA
-  name: >-
-    TOTAL
-
-    $68.48
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: >-
-      //android.view.View[@content-desc = 'TOTAL
-
-      $68.48']
-    priority: 0
-  - name: XPATH
-    value: //android.view.View[3]/android.view.View[1]
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.view.View[1]
-    priority: 2
-- id: Q0Ips4fSaU6EtJq3Y27suA
-  name: >-
-    Subtotal:
-
-    $58.00
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: >-
-      //android.view.View[@content-desc = 'Subtotal:
-
-      $58.00']
-    priority: 0
-  - name: XPATH
-    value: //android.view.View[3]/android.view.View[2]
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.view.View[2]
-    priority: 2
-- id: 7lV7SBIpPkaT0Hn06UBD3g
-  name: >-
-    Tax:
-
-    $3.48
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: >-
-      //android.view.View[@content-desc = 'Tax:
-
-      $3.48']
-    priority: 0
-  - name: XPATH
-    value: //android.view.View[3]/android.view.View[4]
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.view.View[4]
-    priority: 2
 projectParameters: []
 addons: []
