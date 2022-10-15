@@ -1,7 +1,7 @@
-id: bRqtiRfQH0Oh1Ujgib5nSQ
+id: gaPNp_I3tkqOystxDdpjug
 projectId: y4pVsxPAxkypUm1QdKCvAw
 projectName: Technical Test Fita
-created: 2022-10-15T03:47:15.7108467Z
+created: 2022-10-15T03:47:47.9957300Z
 protocol: 1
 tests:
 - id: 2ZnCguWXYU2H_Vpctf-oPQ
@@ -12,7 +12,7 @@ tests:
   driverType: Appium_Android
   version: 0.1
   creationDate: 2022-10-13T03:26:55.0000000
-  modificationDate: 2022-10-15T03:47:05.0000000
+  modificationDate: 2022-10-15T03:47:33.0000000
   settings:
     automationAssistant: true
     deviceId: emulator-5554
@@ -289,32 +289,11 @@ tests:
     conditions: []
     validations: []
     contexts: []
-  - id: -uUy2YdXHUeo3OIiST8CCg
-    comments: ''
-    enabled: true
-    invertResult: false
-    order: 13
-    repeat: 1
-    type: Action
-    elementId: UWcIxBeSnkSGHccMyWBBlg
-    settings:
-      sleepTime: -1
-      timeout: -1
-      sleepTiming: Inherit
-      failureBehaviorType: Inherit
-      takeScreenshotConditionType: Inherit
-    action:
-      id: a9ab4ae7-38ca-4451-a636-1b801a774503
-      source: System
-    parameterMaps: []
-    conditions: []
-    validations: []
-    contexts: []
   - id: SknXrwHL1UWE8JX_6cYN_g
     comments: ''
     enabled: true
     invertResult: false
-    order: 14
+    order: 13
     repeat: 1
     type: Action
     elementId: 7lV7SBIpPkaT0Hn06UBD3g
