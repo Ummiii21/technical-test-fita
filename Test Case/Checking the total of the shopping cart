@@ -1,0 +1,54 @@
+id: bNEvnfkv70izaDClBBq-fg
+projectId: y4pVsxPAxkypUm1QdKCvAw
+projectName: Technical Test Fita
+created: 2022-10-15T03:52:11.0906236Z
+protocol: 1
+tests:
+- id: jsdMykr0QEWnCTX6amfn8A
+  name: Checking the total of the shopping cart
+  description: ''
+  platform: Android
+  type: Mobile
+  driverType: Appium_Android
+  version: 0.1
+  creationDate: 2022-10-15T03:52:11.0000000
+  modificationDate: 2022-10-15T03:52:11.0000000
+  settings:
+    automationAssistant: true
+    appId: puzPxnsW4EyCUlT5KJIA_g
+    stepSleepTime: 500
+    stepTimeout: 15000
+    stepSleepTiming: Before
+    stepFailureBehaviorType: Abort
+    stepTakeScreenshotConditionType: Failure
+  application:
+    id: puzPxnsW4EyCUlT5KJIA_g
+    name: flutter gallery
+    platform: Android
+    hash: 854c01c305e1fb2106d5a2ca424630ed
+  steps:
+  - id: 03nqdfWcckq5srrbKfXCUA
+    comments: Clear application data and restart (Auto-generated)
+    enabled: true
+    invertResult: false
+    order: 1
+    repeat: 1
+    type: Action
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 1b89acc3-5003-4ae6-a8c1-c1732e09ef45
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  parameters: []
+auxTests: []
+elements: []
+projectParameters: []
+addons: []
