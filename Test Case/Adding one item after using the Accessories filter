@@ -1,7 +1,7 @@
-id: cDpDOlh8Uk2bQXTdhLNqjw
+id: rzG7lYAXP0KGvrTWkOTavA
 projectId: y4pVsxPAxkypUm1QdKCvAw
 projectName: Technical Test Fita
-created: 2022-10-15T04:27:07.2211168Z
+created: 2022-10-15T08:56:15.7663939Z
 protocol: 1
 tests:
 - id: rFcH_zguekaCjwTlw12KDQ
@@ -12,7 +12,7 @@ tests:
   driverType: Appium_Android
   version: 0.1
   creationDate: 2022-10-13T06:24:44.0000000
-  modificationDate: 2022-10-15T04:27:07.0000000
+  modificationDate: 2022-10-15T08:56:10.0000000
   settings:
     automationAssistant: true
     deviceId: emulator-5554
@@ -158,131 +158,6 @@ tests:
       takeScreenshotConditionType: Inherit
     action:
       id: 02d572b2-d610-4700-9ad3-40076ddb9807
-      source: System
-    parameterMaps: []
-    conditions: []
-    validations: []
-    contexts: []
-  - id: YCq7RepXY0CMaS1gTVb0rA
-    enabled: true
-    invertResult: false
-    order: 7
-    repeat: 1
-    type: Action
-    elementId: 93Ho8fCQSE-ys13E_SDGpA
-    settings:
-      sleepTime: -1
-      timeout: -1
-      sleepTiming: Inherit
-      failureBehaviorType: Inherit
-      takeScreenshotConditionType: Inherit
-    action:
-      id: 02d572b2-d610-4700-9ad3-40076ddb9807
-      source: System
-    parameterMaps: []
-    conditions: []
-    validations: []
-    contexts: []
-  - id: U_YFw1Dz-Eu7hQOVo7WPRg
-    comments: ''
-    enabled: true
-    invertResult: false
-    order: 8
-    repeat: 1
-    type: Action
-    elementId: rsVXNYbX8EqAPQXMc1GT_Q
-    settings:
-      sleepTime: -1
-      timeout: -1
-      sleepTiming: Inherit
-      failureBehaviorType: Inherit
-      takeScreenshotConditionType: Inherit
-    action:
-      id: a9ab4ae7-38ca-4451-a636-1b801a774503
-      source: System
-    parameterMaps: []
-    conditions: []
-    validations: []
-    contexts: []
-  - id: hzdh0zgJykK0Rkg0SyUtIA
-    comments: ''
-    enabled: true
-    invertResult: false
-    order: 9
-    repeat: 1
-    type: Action
-    elementId: cseLP5jL_EysDabBwPXPgQ
-    settings:
-      sleepTime: -1
-      timeout: -1
-      sleepTiming: Inherit
-      failureBehaviorType: Inherit
-      takeScreenshotConditionType: Inherit
-    action:
-      id: a9ab4ae7-38ca-4451-a636-1b801a774503
-      source: System
-    parameterMaps: []
-    conditions: []
-    validations: []
-    contexts: []
-  - id: B-876fy57kW8VI3nSwVfIg
-    comments: ''
-    enabled: true
-    invertResult: false
-    order: 10
-    repeat: 1
-    type: Action
-    elementId: Ul7CXAlh2U2mWevS0qW73Q
-    settings:
-      sleepTime: -1
-      timeout: -1
-      sleepTiming: Inherit
-      failureBehaviorType: Inherit
-      takeScreenshotConditionType: Inherit
-    action:
-      id: a9ab4ae7-38ca-4451-a636-1b801a774503
-      source: System
-    parameterMaps: []
-    conditions: []
-    validations: []
-    contexts: []
-  - id: P8jv-SMuqE6D_Bp_u4S-NQ
-    comments: ''
-    enabled: true
-    invertResult: false
-    order: 11
-    repeat: 1
-    type: Action
-    elementId: UWcIxBeSnkSGHccMyWBBlg
-    settings:
-      sleepTime: -1
-      timeout: -1
-      sleepTiming: Inherit
-      failureBehaviorType: Inherit
-      takeScreenshotConditionType: Inherit
-    action:
-      id: a9ab4ae7-38ca-4451-a636-1b801a774503
-      source: System
-    parameterMaps: []
-    conditions: []
-    validations: []
-    contexts: []
-  - id: fadjcDl0UUir6cTl6LqlIA
-    comments: ''
-    enabled: true
-    invertResult: false
-    order: 12
-    repeat: 1
-    type: Action
-    elementId: maxCQZE3rkCgZh7T7vfQxw
-    settings:
-      sleepTime: -1
-      timeout: -1
-      sleepTiming: Inherit
-      failureBehaviorType: Inherit
-      takeScreenshotConditionType: Inherit
-    action:
-      id: a9ab4ae7-38ca-4451-a636-1b801a774503
       source: System
     parameterMaps: []
     conditions: []
@@ -746,10 +621,7 @@ auxTests:
   parameters: []
 elements:
 - id: WX6DOPkEq0-vdy9ZeeCosw
-  name: >-
-    Shrine
-
-    A fashionable retail app
+  name: banner_shrine_app
   type:
     id: jUwODgyNjAyNzk2NTk4NDY
     name: android.view.View
@@ -768,7 +640,7 @@ elements:
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[3]/android.view.View[1]/android.widget.HorizontalScrollView[1]/android.view.View[2]
     priority: 2
 - id: CLlk8UUwnEagoqt7TOBhqw
-  name: Gallery
+  name: gallery_home_page
   type:
     id: jUwODgyNjAyNzk2NTk4NDY
     name: android.view.View
@@ -784,10 +656,7 @@ elements:
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[2]
     priority: 2
 - id: D95FkTds8Eeuihobnsi64g
-  name: >-
-    Reply
-
-    An efficient, focused email app
+  name: gallery_page
   type:
     id: jUwODgyNjAyNzk2NTk4NDY
     name: android.view.View
@@ -838,7 +707,7 @@ elements:
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.widget.EditText[2]
     priority: 2
 - id: _QGBlC0lcUecjuLToU4p_w
-  name: NEXT
+  name: button_next
   type:
     id: jUwODgyNjAyNzk2NTk4NDU
     name: android.widget.Button
@@ -867,7 +736,7 @@ elements:
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]
     priority: 1
 - id: 6Uh1Z7HqiUmY6gbr0scsrw
-  name: Open menu
+  name: list_category
   type:
     id: jUwODgyNjAyNzk2NTk4NDU
     name: android.widget.Button
@@ -883,7 +752,7 @@ elements:
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Button[1]
     priority: 2
 - id: sq2JQyQNMkOlmsa_aPvcIA
-  name: ANDROID.VIEW.VIEW2
+  name: item_on_category
   type:
     id: jUwODgyNjAyNzk2NTk4NDY
     name: android.view.View
@@ -895,46 +764,8 @@ elements:
   - name: XPATH
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]
     priority: 1
-- id: 93Ho8fCQSE-ys13E_SDGpA
-  name: Shopping cart, 1 item
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDU
-    name: android.widget.Button
-    source: System
-  locators:
-  - name: XPATH
-    value: //android.widget.Button[@content-desc = 'Shopping cart, 1 item']
-    priority: 0
-  - name: XPATH
-    value: //android.widget.FrameLayout/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View/android.widget.Button
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Button[1]
-    priority: 2
-- id: UWcIxBeSnkSGHccMyWBBlg
-  name: >-
-    Shipping:
-
-    $7.00
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: >-
-      //android.view.View[@content-desc = 'Shipping:
-
-      $7.00']
-    priority: 0
-  - name: XPATH
-    value: //android.view.View[3]/android.view.View[3]
-    priority: 1
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.view.View[3]
-    priority: 2
 - id: K-gitrn1Nk-GgFsD1z3new
-  name: ACCESSORIES
+  name: category_accessories
   type:
     id: jUwODgyNjAyNzk2NTk4NDU
     name: android.widget.Button
@@ -948,98 +779,6 @@ elements:
     priority: 1
   - name: XPATH
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[2]/android.view.View[1]/android.widget.Button[2]
-    priority: 2
-- id: rsVXNYbX8EqAPQXMc1GT_Q
-  name: >-
-    Shrug bag
-
-    Quantity: 1
-
-    x $198
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: >-
-      //android.view.View[@content-desc = 'Shrug bag
-
-      Quantity: 1
-
-      x $198']
-    priority: 1
-  - name: XPATH
-    value: //android.view.View[2]/android.view.View
-    priority: 0
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]
-    priority: 2
-- id: cseLP5jL_EysDabBwPXPgQ
-  name: >-
-    TOTAL
-
-    $216.88
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: >-
-      //android.view.View[@content-desc = 'TOTAL
-
-      $216.88']
-    priority: 1
-  - name: XPATH
-    value: //android.view.View[3]/android.view.View[1]
-    priority: 0
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.view.View[1]
-    priority: 2
-- id: Ul7CXAlh2U2mWevS0qW73Q
-  name: >-
-    Subtotal:
-
-    $198.00
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: >-
-      //android.view.View[@content-desc = 'Subtotal:
-
-      $198.00']
-    priority: 1
-  - name: XPATH
-    value: //android.view.View[3]/android.view.View[2]
-    priority: 0
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.view.View[2]
-    priority: 2
-- id: maxCQZE3rkCgZh7T7vfQxw
-  name: >-
-    Tax:
-
-    $11.88
-  type:
-    id: jUwODgyNjAyNzk2NTk4NDY
-    name: android.view.View
-    source: System
-  locators:
-  - name: XPATH
-    value: >-
-      //android.view.View[@content-desc = 'Tax:
-
-      $11.88']
-    priority: 1
-  - name: XPATH
-    value: //android.view.View[3]/android.view.View[4]
-    priority: 0
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.view.View[4]
     priority: 2
 projectParameters: []
 addons: []
